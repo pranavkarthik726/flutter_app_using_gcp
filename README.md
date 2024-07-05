@@ -5,3 +5,10 @@ This Flutter app allows users to upload an image from their gallery to a server 
  * Choose an image
  * Upload an image to the server which is hosted in GCP
  * Receive the prediction and display it with confidence score
+
+# Demo 
+
+
+
+https://github.com/pranavkarthik726/flutter_app_using_gcp/assets/167102866/0d091e4a-4c04-412a-b57c-6af2dd0ec7a9
+
